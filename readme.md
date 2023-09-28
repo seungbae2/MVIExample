@@ -1,3 +1,3 @@
 # MVI Example
 
-## Orbit MVI example
+Orbit MVI example
