@@ -1,1 +1,1 @@
-# MVI Example
+# MVI
